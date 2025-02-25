@@ -7,7 +7,7 @@
   },
   "description": "This interface adds a custom save and stay button avoiding the need to menu dive.",
   "icon": "extension",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "license": "MIT",
   "keywords": [
     "directus",
@@ -24,7 +24,7 @@
     "type": "interface",
     "path": "dist/index.js",
     "source": "src/index.ts",
-    "host": "^10.10.0"
+    "host": "^11.0.0"
   },
   "scripts": {
     "build": "directus-extension build",
