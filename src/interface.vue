@@ -3,7 +3,7 @@ import { defineComponent } from "vue";
 import { ref, onMounted, onUnmounted } from "vue";
 
 const OBSERVABLE_SAVE_BUTTON_CONTAINER_SELECTOR =
-  "header .actions .action-buttons";
+  "#app header .actions .action-buttons";
 const OBSERVED_SAVE_BUTTON_SELECTOR = `[data-icon="check"]`;
 const SAVE_BUTTON_SELECTOR = `${OBSERVABLE_SAVE_BUTTON_CONTAINER_SELECTOR} button:has([data-icon="check"])`;
 const MENU_ACTIVATOR_SELECTOR = `div.v-menu > div.v-menu-activator > span.v-icon.has-click`;
