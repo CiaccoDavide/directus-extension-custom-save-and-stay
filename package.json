@@ -6,8 +6,8 @@
     "url": "https://ciaccodavi.de"
   },
   "description": "This interface adds a custom save and stay button avoiding the need to menu dive.",
-  "icon": "extension",
-  "version": "1.0.4",
+  "icon": "save",
+  "version": "1.0.5",
   "license": "MIT",
   "keywords": [
     "directus",
