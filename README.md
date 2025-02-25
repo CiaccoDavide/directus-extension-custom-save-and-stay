@@ -12,4 +12,6 @@ Just add this custom field to your collection and you're good to go.
 
 ## Why is this needed?
 
-Currently there's an open issue that will make "save and stay" the default behaviour for the save button. That issue is marked to be resolved in the next main release of Directus, but until then this is a workaround.
+Currently there's an [open issue](https://github.com/directus/directus/issues/22883) that suggests making "save and stay" the default behaviour for the save button. That issue was marked to be resolved in a next main release of Directus, but that tag has been removed almost one year ago.
+
+I think the best way this feature could be implemented is by making it a toggle in the Directus settings, so that the user can choose between "save and close" and "save and stay" as the default behaviour for the save button. But until that happens, this is a simple workaround.
