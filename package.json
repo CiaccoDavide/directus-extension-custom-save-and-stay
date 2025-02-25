@@ -7,7 +7,7 @@
   },
   "description": "This interface adds a custom save and stay button avoiding the need to menu dive.",
   "icon": "extension",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "keywords": [
     "directus",
